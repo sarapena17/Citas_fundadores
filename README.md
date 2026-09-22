@@ -1,2 +1,2 @@
-# Citas_fundadores
+# Citas-fundadores
 Actividad de Sara
